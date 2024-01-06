@@ -1,0 +1,22 @@
+[ 2024-01-06 21:23:55,013 ] 58 datasets - INFO - PyTorch version 2.1.2 available.
+[ 2024-01-06 21:23:57,515 ] 12 root - INFO - Data Ingestion Stage STARTED
+[ 2024-01-06 21:23:57,520 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-06 21:23:57,524 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-06 21:23:57,525 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-06 21:23:57,526 ] 49 root - INFO - created directory at: artifacts/data_ingestion
+[ 2024-01-06 21:23:57,527 ] 21 root - INFO - downloading dataset from {url_path} into file {zip_file_path}
+[ 2024-01-06 21:24:08,103 ] 25 root - INFO - dataset downloaded successfully
+[ 2024-01-06 21:24:08,104 ] 29 root - INFO - unzipping the downloaded file
+[ 2024-01-06 21:24:08,276 ] 32 root - INFO - unzipping of file successfull
+[ 2024-01-06 21:24:08,276 ] 15 root - INFO - Data Ingestion Stage COMPLETED
+[ 2024-01-06 21:24:08,276 ] 22 root - INFO - Data Transformation Stage STARTED
+[ 2024-01-06 21:24:08,282 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-06 21:24:08,286 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-06 21:24:08,287 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-06 21:24:08,287 ] 49 root - INFO - created directory at: artifacts/data_transformation
+[ 2024-01-06 21:24:17,560 ] 25 root - INFO - Data Transformation Stage COMPLETED
+[ 2024-01-06 21:24:17,561 ] 33 root - INFO - Model Trainer Stage STARTED
+[ 2024-01-06 21:24:17,564 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-06 21:24:17,566 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-06 21:24:17,567 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-06 21:24:17,567 ] 49 root - INFO - created directory at: artifacts/model_trainer

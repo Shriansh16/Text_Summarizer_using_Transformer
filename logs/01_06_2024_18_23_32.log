@@ -1,0 +1,13 @@
+[ 2024-01-06 18:23:39,674 ] 58 datasets - INFO - PyTorch version 2.1.2 available.
+[ 2024-01-06 18:23:40,156 ] 11 root - INFO - Data Ingestion Stage STARTED
+[ 2024-01-06 18:23:40,173 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-06 18:23:40,183 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-06 18:23:40,184 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-06 18:23:40,185 ] 49 root - INFO - created directory at: artifacts/data_ingestion
+[ 2024-01-06 18:23:40,185 ] 21 root - INFO - downloading dataset from {url_path} into file {zip_file_path}
+[ 2024-01-06 18:23:48,922 ] 25 root - INFO - dataset downloaded successfully
+[ 2024-01-06 18:23:48,923 ] 29 root - INFO - unzipping the downloaded file
+[ 2024-01-06 18:23:49,033 ] 32 root - INFO - unzipping of file successfull
+[ 2024-01-06 18:23:49,033 ] 14 root - INFO - Data Ingestion Stage COMPLETED
+[ 2024-01-06 18:23:49,033 ] 21 root - INFO - Data Transformation Stage STARTED
+[ 2024-01-06 18:23:49,033 ] 26 root - INFO - ERROR OCCURED IN DATA INGESTION

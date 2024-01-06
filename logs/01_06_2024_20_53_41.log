@@ -1,0 +1,7 @@
+[ 2024-01-06 20:54:00,356 ] 58 datasets - INFO - PyTorch version 2.1.2 available.
+[ 2024-01-06 20:54:01,863 ] 27 root - INFO - STARTED
+[ 2024-01-06 20:54:01,876 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-06 20:54:01,883 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-06 20:54:01,884 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-06 20:54:01,884 ] 49 root - INFO - created directory at: artifacts/model_trainer
+[ 2024-01-06 20:56:14,919 ] 31 root - INFO - error has occured in training pipeline

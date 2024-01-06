@@ -1,0 +1,13 @@
+[ 2024-01-05 19:10:18,304 ] 58 datasets - INFO - PyTorch version 2.1.2 available.
+[ 2024-01-05 19:22:30,435 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-05 19:22:30,461 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-05 19:22:30,474 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-05 19:23:44,008 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-05 19:23:44,010 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-05 19:23:44,010 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-05 19:23:52,874 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-05 19:23:52,876 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-05 19:23:52,877 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-05 19:25:38,203 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-05 19:25:38,204 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-05 19:25:38,205 ] 49 root - INFO - created directory at: artifacts

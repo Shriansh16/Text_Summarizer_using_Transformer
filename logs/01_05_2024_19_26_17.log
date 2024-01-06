@@ -1,0 +1,24 @@
+[ 2024-01-05 19:26:29,010 ] 58 datasets - INFO - PyTorch version 2.1.2 available.
+[ 2024-01-05 19:26:47,659 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-05 19:26:47,661 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-05 19:26:47,661 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-05 19:27:34,881 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-05 19:27:34,883 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-05 19:27:34,884 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-05 19:31:05,091 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-05 19:31:05,100 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-05 19:31:05,101 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-05 19:34:05,765 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-05 19:34:05,767 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-05 19:34:05,768 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-05 19:37:04,872 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-05 19:37:04,874 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-05 19:37:04,876 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-05 22:07:28,365 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-05 22:07:28,377 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-05 22:07:28,380 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-05 22:07:28,381 ] 49 root - INFO - created directory at: artifacts/data_transformation
+[ 2024-01-05 22:13:06,476 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-05 22:13:06,478 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-05 22:13:06,480 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-05 22:13:06,482 ] 49 root - INFO - created directory at: artifacts/data_transformation

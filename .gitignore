@@ -1,0 +1,5 @@
+artifacts/*
+/textSummarizer/
+/TextSummarizer/
+/venv/
+/mlruns/

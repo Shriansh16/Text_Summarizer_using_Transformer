@@ -1,0 +1,5 @@
+[ 2024-01-05 22:14:51,922 ] 58 datasets - INFO - PyTorch version 2.1.2 available.
+[ 2024-01-05 22:14:56,883 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-05 22:14:56,887 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-05 22:14:56,889 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-05 22:14:56,890 ] 49 root - INFO - created directory at: artifacts/data_transformation

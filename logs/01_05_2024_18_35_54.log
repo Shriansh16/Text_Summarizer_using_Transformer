@@ -1,0 +1,10 @@
+[ 2024-01-05 18:35:54,857 ] 10 root - INFO - Data Ingestion Stage STARTED
+[ 2024-01-05 18:35:54,876 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-05 18:35:54,886 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-05 18:35:54,887 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-05 18:35:54,888 ] 49 root - INFO - created directory at: artifacts/data_ingestion
+[ 2024-01-05 18:35:54,889 ] 21 root - INFO - downloading dataset from {url_path} into file {zip_file_path}
+[ 2024-01-05 18:36:04,699 ] 25 root - INFO - dataset downloaded successfully
+[ 2024-01-05 18:36:04,700 ] 29 root - INFO - unzipping the downloaded file
+[ 2024-01-05 18:36:04,874 ] 32 root - INFO - unzipping of file successfull
+[ 2024-01-05 18:36:04,874 ] 13 root - INFO - Data Ingestion Stage COMPLETED
