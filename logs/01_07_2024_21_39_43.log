@@ -1,0 +1,5 @@
+[ 2024-01-07 21:39:55,670 ] 58 datasets - INFO - PyTorch version 2.1.2 available.
+[ 2024-01-07 21:40:15,499 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-07 21:40:15,505 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-07 21:40:15,507 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-07 21:40:15,507 ] 49 root - INFO - created directory at: artifacts/model_trainer

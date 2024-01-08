@@ -1,0 +1,8 @@
+[ 2024-01-08 19:31:19,798 ] 58 datasets - INFO - PyTorch version 2.1.2 available.
+[ 2024-01-08 19:31:20,253 ] 27 root - INFO - STARTED
+[ 2024-01-08 19:31:20,284 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-08 19:31:20,284 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-08 19:31:20,284 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-08 19:31:20,284 ] 49 root - INFO - created directory at: artifacts/model_evaluation
+[ 2024-01-08 19:43:31,329 ] 83 absl - INFO - Using default tokenizer.
+[ 2024-01-08 19:43:32,052 ] 29 root - INFO - DONE
