@@ -1,0 +1,16 @@
+[ 2024-01-08 22:01:22,170 ] 75 uvicorn.error - INFO - Started server process [27328]
+[ 2024-01-08 22:01:22,170 ] 47 uvicorn.error - INFO - Waiting for application startup.
+[ 2024-01-08 22:01:22,170 ] 61 uvicorn.error - INFO - Application startup complete.
+[ 2024-01-08 22:01:22,170 ] 207 uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+[ 2024-01-08 22:03:31,553 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-08 22:03:31,553 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-08 22:03:31,553 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-08 22:03:31,553 ] 49 root - INFO - created directory at: artifacts/model_evaluation
+[ 2024-01-08 22:07:16,269 ] 30 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-01-08 22:07:16,269 ] 30 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-01-08 22:07:16,269 ] 49 root - INFO - created directory at: artifacts
+[ 2024-01-08 22:07:16,269 ] 49 root - INFO - created directory at: artifacts/model_evaluation
+[ 2024-01-08 22:11:23,812 ] 253 uvicorn.error - INFO - Shutting down
+[ 2024-01-08 22:11:23,936 ] 66 uvicorn.error - INFO - Waiting for application shutdown.
+[ 2024-01-08 22:11:23,944 ] 77 uvicorn.error - INFO - Application shutdown complete.
+[ 2024-01-08 22:11:23,944 ] 85 uvicorn.error - INFO - Finished server process [27328]
